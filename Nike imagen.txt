@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <img src="c:\Users\penta\Downloads\prenda-nike.jpg" alt="">
